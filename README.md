@@ -1,3 +1,7 @@
+# Basic Counter App
+
+Aplicación para aprender el funcionamiento básico de React, Comunicación entre componentes, PropTypes, y del Hook useState.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
